@@ -1,0 +1,13 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <primary-color>deep-ocean</primary-color>
+        <header-logo>my-logo.svg</header-logo>
+        <custom-favicons>favicon-16x16.png,favicon-32x32.png,favicon-96x96.png</custom-favicons>
+            <algolia-id>MI3FZSCPNM</algolia-id>
+            <algolia-index>main</algolia-index>
+            <!--<algolia-api-key></algolia-api-key>-->
+            <web-root>https://docs.kellner.team</web-root>
+    </variables>
+    <build-profile instance="instance_id"/>
+</buildprofiles>
