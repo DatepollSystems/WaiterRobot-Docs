@@ -3,15 +3,14 @@
     <variables>
         <primary-color>deep-ocean</primary-color>
         <header-logo>my-logo.svg</header-logo>
-        <product-web-url>https://docs.kellner.team</product-web-url>
+        <product-web-url>https://help.kellner.team</product-web-url>
         <custom-favicons>favicon-16x16.png,favicon-32x32.png,favicon-96x96.png</custom-favicons>
             <algolia-id>MI3FZSCPNM</algolia-id>
             <algolia-index>main</algolia-index>
             <!--<algolia-api-key></algolia-api-key>-->
-            <web-root>https://docs.kellner.team</web-root>
+            <web-root>https://help.kellner.team</web-root>
     </variables>
     <footer>
-        <copyright>kellner.team</copyright>
         <link href="https://kellner.team">kellner.team</link>
     </footer>
     <build-profile instance="instance_id"/>
