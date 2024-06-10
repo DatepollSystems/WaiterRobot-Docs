@@ -5,9 +5,9 @@
         <header-logo>my-logo.svg</header-logo>
         <product-web-url>https://help.kellner.team</product-web-url>
         <custom-favicons>favicon-16x16.png,favicon-32x32.png,favicon-96x96.png</custom-favicons>
-        <algolia-id>MI3FZSCPNM</algolia-id>
+        <algolia-id>GAQX4CARPC</algolia-id>
         <algolia-index>main</algolia-index>
-        <algolia-api-key>8118a8a573d87b939e7d8d78c6d9c9c6</algolia-api-key>
+        <algolia-api-key>057d49c7a29838434c80d00ccf625d1d</algolia-api-key>
         <web-root>https://help.kellner.team</web-root>
         <noindex-content>false</noindex-content>
     </variables>
