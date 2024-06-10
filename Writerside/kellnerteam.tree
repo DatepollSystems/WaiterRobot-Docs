@@ -7,5 +7,15 @@
                  start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>
-    <toc-element topic="Reference.md"/>
+    <toc-element topic="Funktionen.md">
+        <toc-element topic="Allergene.md"/>
+        <toc-element topic="Produkte.md"/>
+    </toc-element>
+    <toc-element topic="Apps.md">
+        <toc-element topic="Konfig-Website.md"/>
+        <toc-element topic="Mediator.md"/>
+        <toc-element topic="Personal-App.md">
+            <toc-element topic="Anmelden.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>

@@ -14,5 +14,9 @@
     <footer>
         <link href="https://kellner.team">kellner.team</link>
     </footer>
-    <build-profile instance="instance_id"/>
+    <build-profile instance="instance_id">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
 </buildprofiles>
