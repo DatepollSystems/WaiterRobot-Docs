@@ -10,7 +10,7 @@ Preis
 
 [Allergene](Allergene.md)
 : Produkte können einen oder mehrere Allergene haben.
-: Sie werden auf der [Konfig-Website](Konfig-Website.md) gesetzt und in der [Personal-App](Personal-App.md) angezeigt.
+: Sie werden auf der [Konfig-Website](Konfig-Website.md) gesetzt und in der [Personal-App](Kellner App) angezeigt.
 
 <seealso>
  <category ref="related">
