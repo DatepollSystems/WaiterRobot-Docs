@@ -20,6 +20,6 @@ Auf unserem Dashboard erhältst du einen Überblick über alle Funktionen, die d
 Nun bist du bereit, deine Veranstaltung zu verwalten. Wähle hierfür die Veranstaltung auf dem [Dashboard](#dashboard), welche du verwalten möchtest aus dem Menü links oben aus.
 Klicke hierfür auf deinen Organisationsnamen.
 
-## Konfigrationen
+## Konfigurationen
 
-Es ist dir nun möglich deine [Drucker](), [Produkte](Produkte.md), [Tische](Tische.md) anzulegen
+Es ist dir nun möglich deine [Drucker](Drucker.md), [Produkte](Produkte.md), [Tische](Tische.md) anzulegen.
