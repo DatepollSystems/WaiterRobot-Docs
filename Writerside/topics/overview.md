@@ -8,6 +8,3 @@ zugängliche Lösungen, damit du dich auf das Wesentliche konzentrieren kannst -
     registrierkassenpflichtig Organisationen/Veranstaltungen nicht geeignet.
 </warning>
 
-## Support
-
-Wenn du noch Fragen hast, kannst du uns gerne per E-Mail unter [support@kellner.team](mailto:support@kellner.team) kontaktieren.
