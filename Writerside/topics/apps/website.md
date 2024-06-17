@@ -12,10 +12,14 @@ Solltest du bereit eingeloggt sein, kommst du auf das [Dashboard](#dashboard).
 ![Screenshot der my.kellner.team login Seite](sc_login.png)
 
 ## Dashboard
-Auf unserem Dashboard erhältst du einen Überblick über alle Funktionen die dir zur Verfügung stehen.
+Auf unserem Dashboard erhältst du einen Überblick über alle Funktionen, die dir zur Verfügung stehen.
 
 ![Screenshot der Dashboard Seite](sc_dashboard.png)
 
 ## Vorbereiten einer Veranstaltung
 Nun bist du bereit, deine Veranstaltung zu verwalten. Wähle hierfür die Veranstaltung auf dem [Dashboard](#dashboard), welche du verwalten möchtest aus dem Menü links oben aus.
-Klicke hierfür auf deinen Organisations Namen.
+Klicke hierfür auf deinen Organisationsnamen.
+
+## Konfigrationen
+
+Es ist dir nun möglich deine [Drucker](), [Produkte](Produkte.md), [Tische](Tische.md) anzulegen
