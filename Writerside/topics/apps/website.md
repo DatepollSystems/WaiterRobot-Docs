@@ -22,4 +22,4 @@ Klicke hierfür auf deinen Organisationsnamen.
 
 ## Konfigurationen
 
-Es ist dir nun möglich deine [Drucker](Drucker.md), [Produkte](Produkte.md), [Tische](Tische.md) anzulegen.
+Es ist dir nun möglich deine [Drucker](printer.md), [Produkte](product.md), [Tische](table.md) anzulegen.

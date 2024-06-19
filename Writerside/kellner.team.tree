@@ -9,13 +9,13 @@
     <toc-element topic="overview.md"/>
 
     <toc-element topic="website.md">
-        <toc-element topic="Drucker.md" />
-        <toc-element topic="Produkte.md"/>
-        <toc-element topic="Tische.md" />
+        <toc-element topic="printer.md" />
+        <toc-element topic="product.md" />
+        <toc-element topic="table.md" />
     </toc-element>
 
     <toc-element topic="mobile-apps.md">
-        <toc-element topic="Android.md">
+        <toc-element topic="android.md">
 
         </toc-element>
         <toc-element topic="iOS.md">

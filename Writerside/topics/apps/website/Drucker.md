@@ -1,3 +1,0 @@
-# Drucker
-
-Coming soon ...
