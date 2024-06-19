@@ -26,8 +26,8 @@ die Anzahl der Sitzplätze und die zugehörige Tischgruppe eingeben werden muss.
 einer `Tischgruppe` zugeordnet sein.
 
 <tip>
-Wenn du viele Tische nacheinander anlegen musst, aktiviere "Erstellen fortsetzen". Damit wird nach dem Speichern nur das
-Tischnummern Feld geleert.
+Wenn du viele Tische nacheinander anlegen musst, aktiviere "Erstellen fortsetzen". 
+Damit wird nach dem Speichern die Tischnummer automatisch um eins erhöht.
 </tip>
 
 ![Tisch hinzufügen](sc_table_add.png)
