@@ -24,4 +24,5 @@
     </toc-element>
     <toc-element topic="desktop.md"/>
     <toc-element topic="support.md"/>
+    <toc-element topic="troubleshooting.md"/>
 </instance-profile>
